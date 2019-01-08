@@ -10,25 +10,25 @@ Multi-pose 2D and 3D Face Alignment and Tracking
 
 ## Image Training Datasets
 
-(1) 300W (68, 3148)
+(1) 300W (68; 3148)
 
-(2) **Menpo2D-Train-Semifrontal (68, 5658)**
+(2) **Menpo2D-Train-Semifrontal (68; 5658)**
 
-(3) Menpo2D-Train-Profile (39, 1906)
+(3) Menpo2D-Train-Profile (39; 1906)
 
 ## Image Test Datasets
 
-(1) 300W-Challenge (68, 135) 
+(1) 300W-Challenge (68; 135) 
 
-(2) 300W-Common (68, 554)
+(2) 300W-Common (68; 554)
 
-(3) 300W-Indoor+Outdoor (68, 600）
+(3) 300W-Indoor+Outdoor (68; 600）
 
-(4) COFW (68, 507) 
+(4) COFW (68; 507) 
 
-(5) **Menpo2D-Test-Semifrontal (68, 5335)**
+(5) **Menpo2D-Test-Semifrontal (68; 5335)**
 
-(6) Menpo2D-Test-Profile (39, 5335)
+(6) Menpo2D-Test-Profile (39; 5335)
 
 ## Video Training Datasets
 
