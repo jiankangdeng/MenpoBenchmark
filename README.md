@@ -5,6 +5,9 @@ Multi-pose 2D and 3D Face Alignment and Tracking
 
 ## Landmark Configuration
 
+68 landmarks
+![menpo2Dconfiguration](https://github.com/jiankangdeng/MenpoBenchmark/menpo2D_landmarks.png)
+
 ## Image Datasets
 
 ## Video Datasets
@@ -12,6 +15,9 @@ Multi-pose 2D and 3D Face Alignment and Tracking
 # 3D Face Alignment 
 
 ## Landmark Configuration
+
+84 landmarks
+![menpo3Dconfiguration](https://github.com/jiankangdeng/MenpoBenchmark/menpo3D_landmarks.png)
 
 ## Image Datasets
 
