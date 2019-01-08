@@ -5,12 +5,38 @@ Multi-pose 2D and 3D Face Alignment and Tracking
 
 ## Landmark Configuration
 
-68 landmarks
+68/39 landmarks
 ![menpo2Dconfiguration](https://github.com/jiankangdeng/MenpoBenchmark/blob/master/menpo2D_landmarks.png)
 
-## Image Datasets
+## Image Training Datasets
 
-## Video Datasets
+(1) 300W (68, 3148)
+
+(2) **Menpo2D-Train-Semifrontal (68, 5658)**
+
+(3) Menpo2D-Train-Profile (39, 1906)
+
+## Image Test Datasets
+
+(1) 300W-Challenge* (68, 135) 
+
+(2) 300W-Common (68, 554)
+
+(3) 300W-Indoor+Outdoor* (68, 600）
+
+(4) COFW* (68, 507) 
+
+(5) **Menpo2D-Test-Semifrontal* (68, 5335)**
+
+(6) Menpo2D-Test-Profile (39, 5335)
+
+## Video Training Datasets
+
+(1) 300VW
+
+## Video Test Datasets
+
+(1) 300VW
 
 # 3D Face Alignment 
 
@@ -19,9 +45,11 @@ Multi-pose 2D and 3D Face Alignment and Tracking
 84 landmarks
 ![menpo3Dconfiguration](https://github.com/jiankangdeng/MenpoBenchmark/blob/master/menpo3D_landmarks.png)
 
-## Image Datasets
+## Training Datasets
 
-## Video Datasets
+## Image Test Datasets
+
+## Video Test Datasets
 
 # Citation
 
