@@ -3,15 +3,19 @@ Multi-pose 2D and 3D Face Alignment and Tracking
 
 # 2D Face Alignment
 
-## Image
+## Landmark Configuration
 
-## Video
+## Image Datasets
+
+## Video Datasets
 
 # 3D Face Alignment 
 
-## Image
+## Landmark Configuration
 
-## Video
+## Image Datasets
+
+## Video Datasets
 
 # Citation
 
