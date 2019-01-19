@@ -1,15 +1,8 @@
 # Results:
-![Menpo2D_Semifrontal_Test](https://github.com/jiankangdeng/MenpoBenchmark/blob/master/Evaluation/Menpo2D/Menpo%20Semifrontal%20Test%20Set.pdf)
 
-![Menpo2D_Profile_Test](https://github.com/jiankangdeng/MenpoBenchmark/blob/master/Evaluation/Menpo2D/Menpo%20Profile%20Test%20Set.pdf)
+[![Menpo2D_Semifrontal_Test](https://github.com/jiankangdeng/MenpoBenchmark/blob/master/Evaluation/Menpo2D/Menpo%20Semifrontal%20Test%20Set.png)]
 
-
-<object data="https://github.com/jiankangdeng/MenpoBenchmark/blob/master/Evaluation/Menpo2D/Menpo%20Profile%20Test%20Set.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/jiankangdeng/MenpoBenchmark/blob/master/Evaluation/Menpo2D/Menpo%20Profile%20Test%20Set.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/jiankangdeng/MenpoBenchmark/blob/master/Evaluation/Menpo2D/Menpo%20Profile%20Test%20Set.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-
+[![Menpo2D_Profile_Test](https://github.com/jiankangdeng/MenpoBenchmark/blob/master/Evaluation/Menpo2D/Menpo%20Profile%20Test%20Set.png)]
 
 # Notes:
 
