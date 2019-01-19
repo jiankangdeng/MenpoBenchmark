@@ -1,34 +1,37 @@
 # MenpoBenchmark
 Multi-pose 2D and 3D Face Alignment and Tracking
 
-# 2D Face Alignment
+# 2D Face Alignment 
 
-## Landmark Configuration
+## Download Links
+300W [dropbox] (https://www.dropbox.com/s/7p4gwooqb5duijy/300W.zip?dl=0)
+COFW [dropbox] (https://www.dropbox.com/s/4yuzt4namj6929d/COFW.zip?dl=0)
+Menpo2D [dropbox] (https://www.dropbox.com/s/47z0yov21bwql67/Menpo2D.zip?dl=0)
+
+## Landmark Configuration 
 
 68/39 landmarks
 ![menpo2Dconfiguration](https://github.com/jiankangdeng/MenpoBenchmark/blob/master/menpo2D_landmarks.png)
 
 ## Image Training Datasets
 
-(1) 300W (68; 3148)
+(1) 300W/Train (68; 3702)
 
-(2) **Menpo2D-Train-Semifrontal (68; 5658)**
+(2) **Menpo2D/Train/image/semifrontal (68; 6653)**
 
-(3) Menpo2D-Train-Profile (39; 1906)
+(3) Menpo2D/Train/image/profile (39; 2290)
 
 ## Image Test Datasets
 
-(1) 300W-Challenge (68; 135) 
+(1) 300W/Validation (68; 135) (Known as the 300W-Challenge dataset) 
 
-(2) 300W-Common (68; 554)
+(2) 300W/Test (68; 600)
 
-(3) 300W-Indoor+Outdoor (68; 600）
+(3) COFW (68; 507)  (Known as the occlusion dataset) 
 
-(4) COFW (68; 507) 
+(4) **Menpo2D/Test/image/semifrontal (68; 5335)**
 
-(5) **Menpo2D-Test-Semifrontal (68; 5335)**
-
-(6) Menpo2D-Test-Profile (39; 5335)
+(5) Menpo2D/Test/image/profile (39; 1946)
 
 ## Video Training Datasets
 
