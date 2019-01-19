@@ -35,7 +35,7 @@ Menpo2D Datasets:
   year={2017}
 }
 ```
-Top 3 participants (yang, he, wu)in the Menpo 2D challenge and our baseline (deng):
+Top 3 participants (yang, he, wu) in the Menpo 2D challenge and our baseline (deng):
 
 ```
 @inproceedings{yang2017stacked,
