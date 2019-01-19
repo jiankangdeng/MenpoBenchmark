@@ -1,6 +1,9 @@
-Results:
+# Results:
+[![Menpo2D Semifrontal Test](https://github.com/jiankangdeng/MenpoBenchmark/blob/master/Evaluation/Menpo2D/Menpo%20Semifrontal%20Test%20Set.pdf)]
 
-Notes:
+[![Menpo2D Profile Test](https://github.com/jiankangdeng/MenpoBenchmark/blob/master/Evaluation/Menpo2D/Menpo%20Profile%20Test%20Set.pdf)]
+
+# Notes:
 
 1. Please contact us (j.deng16@imperial.ac.uk), if you do not want to be included in this data set. 
 We will remove related images by request.
@@ -10,10 +13,11 @@ The ground-truth will keep on updating.
 
 3. If you want your method to be a baseline, please send me (j.deng16@imperial.ac.uk) your results in the semifrontal/profile.mat or in the format of .pts.
 
-Reference:
+# References:
 
-1. Menpo2D Datasets:
+Menpo2D Datasets:
 
+```
 @article{deng2018menpo,
   title={The Menpo benchmark for multi-pose 2D and 3D facial landmark localisation and tracking},
   author={Deng, Jiankang and Roussos, Anastasios and Chrysos, Grigorios and Ververas, Evangelos and Kotsia, Irene and Shen, Jie and Zafeiriou, Stefanos},
@@ -29,9 +33,10 @@ Reference:
   booktitle={Computer Vision and Pattern Recognition (CVPR) Workshops},
   year={2017}
 }
+```
+Top 3 participants (yang, he, wu)in the Menpo 2D challenge and our baseline (deng).
 
-2. Top 3 participants (yang, he, wu)in the Menpo 2D challenge and our baseline (deng).
-
+```
 @inproceedings{yang2017stacked,
   title={Stacked hourglass network for robust facial landmark localisation},
   author={Yang, Jing and Liu, Qingshan and Zhang, Kaihua},
@@ -59,6 +64,6 @@ Reference:
   journal={arXiv:1708.06023},
   year={2017}
 }
-
+```
 
 
