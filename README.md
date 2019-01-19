@@ -3,9 +3,12 @@ Multi-pose 2D and 3D Face Alignment and Tracking
 
 # 2D Face Alignment 
 
-## Download Links
+## Dataset Download Links
+
 300W [dropbox] (https://www.dropbox.com/s/7p4gwooqb5duijy/300W.zip?dl=0)
+
 COFW [dropbox] (https://www.dropbox.com/s/4yuzt4namj6929d/COFW.zip?dl=0)
+
 Menpo2D [dropbox] (https://www.dropbox.com/s/47z0yov21bwql67/Menpo2D.zip?dl=0)
 
 ## Landmark Configuration 
