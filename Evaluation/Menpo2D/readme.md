@@ -1,11 +1,12 @@
 # Results:
 
 ![Menpo2D_Semifrontal_Test](https://github.com/jiankangdeng/MenpoBenchmark/blob/master/Evaluation/Menpo2D/Menpo%20Semifrontal%20Test%20Set.png)
+
 ![Menpo2D_Profile_Test](https://github.com/jiankangdeng/MenpoBenchmark/blob/master/Evaluation/Menpo2D/Menpo%20Profile%20Test%20Set.png)
 
 # Notes:
 
-1. Please contact us (j.deng16@imperial.ac.uk), if you do not want to be included in this data set. 
+1. Please contact me (j.deng16@imperial.ac.uk), if you do not want to be included in this data set. 
 We will remove related images by request.
 
 2. If you find some wrong annotations (> 10 faces), please contact us (j.deng16@imperial.ac.uk) to refine the ground-truth.
