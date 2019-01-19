@@ -1,8 +1,7 @@
 # Results:
 
-![Menpo2D_Semifrontal_Test](https://github.com/jiankangdeng/MenpoBenchmark/blob/master/Evaluation/Menpo2D/Menpo%20Semifrontal%20Test%20Set.png){:height="180px" width="180px"}
-
-![Menpo2D_Profile_Test](https://github.com/jiankangdeng/MenpoBenchmark/blob/master/Evaluation/Menpo2D/Menpo%20Profile%20Test%20Set.png){:height="180px" width="180px"}
+![Menpo2D_Semifrontal_Test](https://github.com/jiankangdeng/MenpoBenchmark/blob/master/Evaluation/Menpo2D/Menpo%20Semifrontal%20Test%20Set.png)
+![Menpo2D_Profile_Test](https://github.com/jiankangdeng/MenpoBenchmark/blob/master/Evaluation/Menpo2D/Menpo%20Profile%20Test%20Set.png)
 
 # Notes:
 
