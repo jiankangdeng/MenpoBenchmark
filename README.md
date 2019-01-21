@@ -35,11 +35,11 @@ FRGC [dropbox](https://www.dropbox.com/s/xswi4l9rpnf3ipr/frgc.zip?dl=0)
 
 ## Image Test Datasets
 
-(1) 300W/Validation (68; 135) (Known as the 300W-Challenge dataset) 
+(1) 300W/Validation (68; 135)
 
-(2) 300W/Test (68; 600)
+(2) COFW (68; 507) 
 
-(3) COFW (68; 507)  (Known as the occlusion dataset) 
+(3) 300W/Test (68; 600)
 
 (4) **Menpo2D/Test/image/semifrontal (68; 5335)**
 
