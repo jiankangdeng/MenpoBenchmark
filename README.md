@@ -1,9 +1,9 @@
 # MenpoBenchmark
 Multi-pose 2D and 3D Face Alignment and Tracking
 
-# 2D Face Alignment 
-
 ## Dataset Download Links
+
+The face boxs and five facial landmarks within the annotation files are predicted from our detector, which has a mAP around 90% on the WiderFace Hard subset. We will release this face detector recently, thus the face alignment algorithms can run from scratch. 
 
 300W [dropbox](https://www.dropbox.com/s/7p4gwooqb5duijy/300W.zip?dl=0)
 
@@ -18,9 +18,11 @@ XM2VTS [dropbox](https://www.dropbox.com/s/fn38m40xurwe8fx/xm2vts.zip?dl=0)
 
 FRGC [dropbox](https://www.dropbox.com/s/xswi4l9rpnf3ipr/frgc.zip?dl=0)
 
+# 2D Face Alignment 
+
 ## Landmark Configuration 
 
-68/39 landmarks
+68/39 landmarks (The landmark configurations are from MultiPIE.)
 ![menpo2Dconfiguration](https://github.com/jiankangdeng/MenpoBenchmark/blob/master/menpo2D_landmarks.png)
 
 ## Image Training Datasets
