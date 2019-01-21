@@ -67,6 +67,8 @@ FRGC [dropbox](https://www.dropbox.com/s/xswi4l9rpnf3ipr/frgc.zip?dl=0)
 
 # Citation
 
+IBUG just provides the landmark annotations, but some images are from other works. Please cite the original papers first.
+
 ```
 @article{deng2018menpo,
   title={The Menpo benchmark for multi-pose 2D and 3D facial landmark localisation and tracking},
