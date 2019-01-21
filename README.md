@@ -12,6 +12,7 @@ COFW [dropbox](https://www.dropbox.com/s/4yuzt4namj6929d/COFW.zip?dl=0)
 Menpo2D [dropbox](https://www.dropbox.com/s/utojl92tvmdhiy8/Menpo2D.zip?dl=0)
 
 MultiPIE [dropbox](https://www.dropbox.com/s/w644zx4hljk6o1h/MultiPIE.zip?dl=0)
+MultiPIE-3D [dropbox](https://www.dropbox.com/sh/fs03rwy4i67pr1h/AAB2y6XGHITeWMhgs6lyB3o0a?dl=0)
 
 XM2VTS [dropbox](https://www.dropbox.com/s/fn38m40xurwe8fx/xm2vts.zip?dl=0)
 
