@@ -3,7 +3,7 @@ Multi-pose 2D and 3D Face Alignment and Tracking
 
 ## Dataset Download Links
 
-The face boxs and five facial landmarks within the annotation files are predicted from our detector, which has a mAP around 90% on the WiderFace Hard subset. We will release this face detector recently, thus the face alignment algorithms can run from scratch. 
+The face boxes and five facial landmarks within the annotation files are predicted from our detector, which has an mAP around 90% on the WiderFace Hard subset. We will release this face detector recently, thus the face alignment algorithms can be tested under the real-world environments.
 
 300W [dropbox](https://www.dropbox.com/s/7p4gwooqb5duijy/300W.zip?dl=0)
 
