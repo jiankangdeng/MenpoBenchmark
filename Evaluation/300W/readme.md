@@ -1,6 +1,6 @@
 # Results:
 
-![300W](https://github.com/jiankangdeng/MenpoBenchmark/blob/master/Evaluation/300W/300W-Test-All.pdf)
+![300W](https://github.com/jiankangdeng/MenpoBenchmark/blob/master/Evaluation/300W/300W-Test-All.png)
 
 # Notes:
 
