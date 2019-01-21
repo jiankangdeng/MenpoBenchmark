@@ -11,6 +11,12 @@ COFW [dropbox](https://www.dropbox.com/s/4yuzt4namj6929d/COFW.zip?dl=0)
 
 Menpo2D [dropbox](https://www.dropbox.com/s/utojl92tvmdhiy8/Menpo2D.zip?dl=0)
 
+MultiPIE [dropbox](https://www.dropbox.com/s/w644zx4hljk6o1h/MultiPIE.zip?dl=0)
+
+XM2VTS [dropbox](https://www.dropbox.com/s/fn38m40xurwe8fx/xm2vts.zip?dl=0)
+
+FRGC [dropbox](https://www.dropbox.com/s/xswi4l9rpnf3ipr/frgc.zip?dl=0)
+
 ## Landmark Configuration 
 
 68/39 landmarks
