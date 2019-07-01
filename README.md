@@ -1,7 +1,7 @@
 # MenpoBenchmark
 Multi-pose 2D and 3D Face Alignment and Tracking
 
-The face boxes and five facial landmarks within the annotation files are predicted from our detector, which has an mAP around 90% on the WiderFace Hard subset. We will release this face detector recently, thus the face alignment algorithms can be tested under the real-world environments.
+The face boxes and five facial landmarks within the annotation files are predicted by our face detector ([RetinaFace](https://github.com/deepinsight/insightface/tree/master/RetinaFace)), which achieves state-of-the-art performance on the WiderFace dataset. We have released this face detector, thus the face alignment algorithms can be tested from scratch under in-the-wild environment.
 
 # 2D Face Alignment 
 
@@ -70,7 +70,7 @@ FRGC [dropbox](https://www.dropbox.com/s/xswi4l9rpnf3ipr/frgc.zip?dl=0)
 
 # Citation
 
-IBUG just provides the landmark annotations, but some images are from other works. Please cite the original papers first.
+IBUG just provides the landmark annotations, but some face images are from other works. Please cite the original papers first and follow their data license.
 
 ```
 @article{deng2018menpo,
