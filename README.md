@@ -1,24 +1,24 @@
 # MenpoBenchmark
 Multi-pose 2D and 3D Face Alignment and Tracking
 
-The face boxes and five facial landmarks within the annotation files are predicted by our face detector ([RetinaFace](https://github.com/deepinsight/insightface/tree/master/RetinaFace)), which achieves state-of-the-art performance on the WiderFace dataset. We have released this face detector, thus the face alignment algorithms can be tested from scratch under in-the-wild environment.
+The face boxes and five facial landmarks within the annotation files are predicted by our face detector ([RetinaFace](https://github.com/deepinsight/insightface/tree/master/detection/retinaface)), which achieves state-of-the-art performance on the WiderFace dataset. 
+We have released this face detector, thus the face alignment algorithms can be tested from scratch under in-the-wild environment.
 
 # 2D Face Alignment 
 
 ## Dataset Download Links
 
-300W [dropbox](https://www.dropbox.com/s/nq08cjt67ro3lgw/300W.zip?dl=0)
+Menpo2D [Google Drive](https://drive.google.com/file/d/1CUqs0n135lye6J6RM5FQXT_DIT45dKvP/view?usp=sharing)
 
-COFW [dropbox](https://www.dropbox.com/s/kj2f8alotc3qpa4/COFW.zip?dl=0)
+300W [Google Drive](https://drive.google.com/file/d/1VGT24gi5nd2TnGRLbHRtJkAGQbclkcJi/view?usp=sharing)
 
-Menpo2D [dropbox](https://www.dropbox.com/s/3smq7pasjomnmth/Menpo2D.zip?dl=0)
+COFW [Google Drive](https://drive.google.com/file/d/1mNVvmDlago54JwsqpP7aLoBP85Tuz5mA/view?usp=sharing)
 
-MultiPIE [dropbox](https://www.dropbox.com/s/s4u3queunuz5vfo/MultiPIE.zip?dl=0)
-MultiPIE-3D [dropbox](https://www.dropbox.com/sh/fs03rwy4i67pr1h/AAB2y6XGHITeWMhgs6lyB3o0a?dl=0)
+MultiPIE [Google Drive](https://drive.google.com/file/d/18JFjBTAZqthpORmEf2LuT14IuMYNyD_h/view?usp=sharing)
 
-XM2VTS [dropbox](https://www.dropbox.com/s/776b72uge8jbst9/XM2VTS.zip?dl=0)
+XM2VTS [Google Drive](https://drive.google.com/file/d/1qdBlQhq9YEt5lzX1OGy5_AyjFL3vWxRs/view?usp=sharing)
 
-FRGC [dropbox](https://www.dropbox.com/s/nytnp0vhy1ga3tu/FRGC.zip?dl=0)
+FRGC [Google Drive](https://drive.google.com/file/d/1T2Ux0tjd5CxI9PWZb5sXThuGvWH-oM5p/view?usp=sharing)
 
 ## Landmark Configuration 
 
@@ -72,13 +72,24 @@ FRGC [dropbox](https://www.dropbox.com/s/nytnp0vhy1ga3tu/FRGC.zip?dl=0)
 
 IBUG just provides the landmark annotations, but some face images are from other works. Please cite the original papers first and follow their data license.
 
+
 ```
-@article{deng2018menpo,
-  title={The Menpo benchmark for multi-pose 2D and 3D facial landmark localisation and tracking},
+
+@inproceedings{deng2020retinaface,
+  title={Retinaface: Single-shot multi-level face localisation in the wild},
+  author={Deng, Jiankang and Guo, Jia and Ververas, Evangelos and Kotsia, Irene and Zafeiriou, Stefanos},
+  booktitle={Computer Vision and Pattern Recognition (CVPR)},
+  year={2020}
+}
+
+@article{deng2019menpo,
+  title={The menpo benchmark for multi-pose 2d and 3d facial landmark localisation and tracking},
   author={Deng, Jiankang and Roussos, Anastasios and Chrysos, Grigorios and Ververas, Evangelos and Kotsia, Irene and Shen, Jie and Zafeiriou, Stefanos},
   journal={International Journal of Computer Vision},
-  pages={1--26},
-  year={2018},
+  volume={127},
+  number={6},
+  pages={599--624},
+  year={2019},
   publisher={Springer}
 }
 
